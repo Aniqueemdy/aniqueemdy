@@ -26,6 +26,7 @@ Project Assistant Manager (Protege) <img src="https://img.icons8.com/?size=100&i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
 </p>
+<br>
 <h3 align="center">In-Learning</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" width="40"/>
