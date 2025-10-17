@@ -14,7 +14,7 @@ Project Assistant Manager (Protege) <img src="https://img.icons8.com/?size=100&i
 <p><!-- SOMETHING HERE!!! --></p>
   
 <br>
-<h3 align="center">Language</h3>
+<h3 align="center">Learned</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
